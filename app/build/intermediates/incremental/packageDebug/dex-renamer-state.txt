@@ -1,0 +1,7 @@
+#Tue Dec 20 01:15:18 CET 2016
+base.0=C\:\\code\\tmp\\a\\AndroidPasswordService\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_81aa9137292122966a649ed4445bd9522a8386ce
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\code\\tmp\\a\\AndroidPasswordService\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_195c75ba01cc0a82d561cf142cb3cebf0a394131\\classes.dex
+base.1=C\:\\code\\tmp\\a\\AndroidPasswordService\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_195c75ba01cc0a82d561cf142cb3cebf0a394131
+file.0=C\:\\code\\tmp\\a\\AndroidPasswordService\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_81aa9137292122966a649ed4445bd9522a8386ce\\classes.dex

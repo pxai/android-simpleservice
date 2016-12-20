@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="310900811218001"
+    token="-732723607670895013"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="194" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="72" />
+    <task
+        name="verifier"
+        duration="40" />
+
+    <artifact
+        location="C:\code\tmp\a\AndroidPasswordService\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="310900811218001"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\code\tmp\a\AndroidPasswordService\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

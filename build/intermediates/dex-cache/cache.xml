@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\code\tmp\a\AndroidPasswordService\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a0b04a1b3d1319a71590e10b9fcc60df38e37838">
+        <dex dex="C:\code\tmp\a\AndroidPasswordService\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_81aa9137292122966a649ed4445bd9522a8386ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PELLO_ALTADILL\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\code\tmp\a\AndroidPasswordService\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_542682739f2e11bc753ecfe5474856521f5a3cfa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\code\tmp\a\AndroidPasswordService\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5a3fe8495f0edeb77810979f2bf8f3efa6848280">
+        <dex dex="C:\code\tmp\a\AndroidPasswordService\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_195c75ba01cc0a82d561cf142cb3cebf0a394131\classes.dex" />
+    </item>
+
+</items>
